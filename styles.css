@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient( 109.6deg,  rgba(8,234,238,0.92) 31.7%, rgba(78,228,157,1) 89.5% );
+  }
+  
+  .svg-size {
+    position: relative;
+    background: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    border: 1px solid black;
+    font-family: sans-serif
+  }
+  /* make phone size height */
+  .master {
+    position: relative;
+  }
+  
+  .bar {
+    fill: #791E94;
+  }
+  
+  .bar:hover {
+    fill: white;
+  }
+  
+  #tooltip {
+    width: 150px;
+    position: absolute;
+    background: #73D2DE;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    z-index: 100;
+    box-shadow: 2px 2px 4px rgba(0,0,0);
+    border: 1px solid black;
+    font-family: gerogia;
+  }
+  
